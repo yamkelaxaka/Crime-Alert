@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716183340310",
+    "firebase_url": "https://tough-mechanic-287300.firebaseio.com",
+    "project_id": "tough-mechanic-287300",
+    "storage_bucket": "tough-mechanic-287300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716183340310:android:f3d5704948a813dbe8bc37",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716183340310-b4o9mb0l8ouhfpa2jg9pjtv17prmg5em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "72f89c12c5240a0e7e942254085eface6bdb606c"
+          }
+        },
+        {
+          "client_id": "716183340310-hjfqvgvt7f4e2p4htfn0q6uqdeoo8eaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5eS0AgALXJELPBC8_Mc2b8UzhCzJNMBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716183340310-hjfqvgvt7f4e2p4htfn0q6uqdeoo8eaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
